@@ -1,0 +1,45 @@
+{
+  "_from": "numlite",
+  "_id": "numlite@1.0.8",
+  "_inBundle": false,
+  "_integrity": "sha512-Osakc+3YNpt6Xb7LRs3azHJfto/5XB6KrEw7Ot2B0mzX0on1BXmqtE/9N14tarYPrkyIZ4Mj2hS70k2zprOiyg==",
+  "_location": "/numlite",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "numlite",
+    "name": "numlite",
+    "escapedName": "numlite",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/numlite/-/numlite-1.0.8.tgz",
+  "_shasum": "a33c2f33d80a3cbd847ad771b8bb9e2f3114dd7b",
+  "_spec": "numlite",
+  "_where": "C:\\Users\\Cnsn\\Desktop\\angularJs",
+  "author": {
+    "name": "Cansin Memis"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A lightweight AngularJs input directive for currency and number formatting",
+  "keywords": [
+    "'angularjs'",
+    "'textbox'",
+    "'currency'",
+    "'directive'"
+  ],
+  "license": "ISC",
+  "main": "numlite.js",
+  "name": "numlite",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.8"
+}
